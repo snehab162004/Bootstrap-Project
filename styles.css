@@ -1,0 +1,6 @@
+@media (min-width: 1280px) {
+     .custom-hero-image {
+    /* width: 100rem !important; */
+    height: 30rem !important;
+  }
+}
