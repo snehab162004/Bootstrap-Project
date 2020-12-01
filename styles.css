@@ -16,7 +16,10 @@
     font-size: 0.4rem;
   }
   span {
-    font-size: 0.3rem;
+    font-size: 0.1rem;
+  }
+  .navbar-brand {
+    font-size: 0.1rem;
   }
  }
 
@@ -33,6 +36,9 @@
   span {
     font-size: 0.5rem;
   }
+  .navbar-brand {
+    font-size: 1rem;
+  }
  }
 
 @media (min-width: 992px) { 
@@ -40,13 +46,16 @@
     font-size: 1.4rem;
   }
   ul li {
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
   p {
     font-size: 1.2rem;
   }
   span {
     font-size: 1rem;
+  }
+  .navbar-brand {
+    font-size: 1.2rem;
   }
 }
 
@@ -62,6 +71,9 @@
   }
   span {
     font-size: 1.2rem;
+  }
+  .navbar-brand {
+    font-size: 1.5rem;
   }
 }
  
