@@ -8,6 +8,7 @@
  h1{ 
    font-size: 0.4rem;
    letter-spacing: 1px;
+   font-display: 4;
   }
   p{
     font-size: 0.4rem;
@@ -26,6 +27,7 @@
   }
   .font-responsive {
     letter-spacing: 0.8px;
+    line-height: 0.8rem;
   }
  }
 
@@ -64,7 +66,7 @@
     font-size: 1.2rem;
   }
   span {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
   .navbar-brand {
     font-size: 1.2rem;
