@@ -18,10 +18,10 @@
   span {
     font-size: 0.1rem;
   }
-  .navbar-brand {
+  /* .navbar-brand {
     font-size: 1px;
     letter-spacing: 0.3px;
-  }
+  } */
   .font-responsive {
     letter-spacing: 0.8px;
   }
@@ -40,10 +40,10 @@
   span {
     font-size: 0.5rem;
   }
-  .navbar-brand {
+  /* .navbar-brand {
     font-size: 1rem;
     letter-spacing: 0.6px;
-  }
+  } */
   .font-responsive {
     letter-spacing: 0.9px;
   }
